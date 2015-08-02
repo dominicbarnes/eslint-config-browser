@@ -1,0 +1,9 @@
+{
+  "extends": "@dominicbarnes",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-alert": 2
+  }
+}
