@@ -9,6 +9,7 @@
     "exports": true
   },
   "rules": {
-    "no-alert": 2
+    "no-alert": 2,
+    "new-cap": [ 2, { "capIsNewExceptions": [ "Emitter" ] } ]
   }
 }
