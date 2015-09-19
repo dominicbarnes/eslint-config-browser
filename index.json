@@ -1,12 +1,8 @@
 {
   "extends": "@dominicbarnes",
   "env": {
-    "browser": true
-  },
-  "globals": {
-    "require": true,
-    "module": true,
-    "exports": true
+    "browser": true,
+    "commonjs": true
   },
   "plugins": [
     "require-path-exists"
