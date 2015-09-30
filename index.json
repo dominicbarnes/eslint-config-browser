@@ -4,15 +4,9 @@
     "browser": true,
     "commonjs": true
   },
-  "plugins": [
-    "require-path-exists"
-  ],
   "rules": {
     "global-require": 2,
     "no-alert": 2,
-    "new-cap": [ 2, { "capIsNewExceptions": [ "Emitter" ] } ],
-    "require-path-exists/exists": 2,
-    "require-path-exists/not_empty": 2,
-    "require-path-exists/too_many_arguments": 2
+    "new-cap": [ 2, { "capIsNewExceptions": [ "Emitter" ] } ]
   }
 }

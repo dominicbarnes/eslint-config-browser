@@ -4,7 +4,6 @@
   "version": "0.1.1",
   "main": "index.json",
   "peerDependencies": {
-    "@dominicbarnes/eslint-config": "*",
-    "eslint-plugin-require-path-exists": "^1.0.15"
+    "@dominicbarnes/eslint-config": "*"
   }
 }
